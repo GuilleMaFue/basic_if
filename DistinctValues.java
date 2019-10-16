@@ -1,5 +1,3 @@
-// https://github.com/Guillema99/basic_if/blob/master/AllEqual.java
-
 public class DistinctValues {
 
 	public static void main(String[] args) {
